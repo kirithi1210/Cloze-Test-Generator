@@ -4,8 +4,9 @@ This tool helps you easily create **fill-in-the-blank quizzes** (also called clo
 
 📎 🔗 [Try the live demo in Colaab]
 
-🔗 Demo Link
-👉 Click here to open the Cloze Test Generator in Colab
+## 🔗 Demo Link  
+🔗 **[Click here to open the Cloze Test Generator in Colab](https://colab.research.google.com/drive/18ll1jRf9TPVsOm2G5oAUVueTIXENyZQ5#scrollTo=cmILLeftIYje)**
+
 ---
 
 ## ✨ What It Can Do
